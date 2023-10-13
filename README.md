@@ -31,7 +31,7 @@
     <a href="https://github.com/ak010cse/ak010cse" alt="Github Stars" title="Star Mark Repo">
         <img src="https://camo.githubusercontent.com/efdba6e2a1b6f5a28f5786b8152df4cdb9177a0943fa976f6e963cbf12526401/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53686f7765725f73746172735f69665f796f755f6c696b655f6d795f7265706f732d31356b3f7374796c653d666f722d7468652d626164676526636f6c6f723d666664303030266c6f676f3d617061636865737061726b266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&amp;color=ffd000&amp;logo=apachespark&amp;logoColor=black" style="max-width: 100%;">
     </a>
-    <a href="https://www.linkedin.com/in/kumar-arvnd" rel="nofollow">
+    <a href="https://www.linkedin.com/in/kumar-arvind/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/710df352e7dd7546be55aeaa68097812465fd7da6bb489b7fe07135e0f21687c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466f725f50726f66657373696f6e616c5f557064617465732d31356b3f7374796c653d666f722d7468652d626164676526636f6c6f723d306136366332266c6f676f3d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&amp;color=0a66c2&amp;logo=linkedin" style="max-width: 100%;">
     </a>
     <a href="https://www.instagram.com/mainhuarvind/" rel="nofollow">
